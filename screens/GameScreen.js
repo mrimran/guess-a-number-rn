@@ -75,7 +75,9 @@ function GameScreen({userNumber, onGameOver}) {
 
   return (
     <View style={styles.screen}>
-      <Title>Guess</Title>
+      <View style={styles.titleContainer}>
+        <Title>Guess</Title>
+      </View>
       <NumberContainer>{currentGuess}</NumberContainer>
       <Card>
               <Label style={styles.labelExtra}>Higher or lower?</Label>
@@ -112,6 +114,9 @@ const styles = StyleSheet.create({
   screen: {
     flex: 1,
     padding: 20,
+  },
+  titleContainer: {
+    marginTop: 30
   },
   buttonsContainer: {
     flexDirection: 'row'
