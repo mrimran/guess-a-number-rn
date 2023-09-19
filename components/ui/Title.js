@@ -16,6 +16,8 @@ const styles = StyleSheet.create({
         textAlign: "center",
         borderWidth: 2, 
         borderColor: Colors.accentAlterNativeWhite,
-        padding: 8
+        padding: 8,
+        maxWidth: '80%',
+        width: 300
     }
 });
