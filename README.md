@@ -9,4 +9,4 @@ npm install
 npm start
 ```
 
-<img src="./assets/images/screenshot1.png" width="300" alt="Game Screen" /> <img src="./assets/images/screenshot2.png" width="300" alt="Game Screen" /> 
+<img src="./assets/images/screenshot1.png" width="425" alt="Game Screen" /> <img src="./assets/images/screenshot2.png" width="425" alt="Game Screen" /> 
