@@ -9,4 +9,4 @@ npm install
 npm start
 ```
 
-![Game play screen](./assets/images/screenshot1.png "Screenshot 1") ![Game over screen](./assets/images/screenshot2.png "Screenshot 1")
+![alt-text-1](./assets/images/screenshot1.png "Game Screen") ![alt-text-2](./assets/images/screenshot2.png "Summary Screen")
